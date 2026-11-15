@@ -37,11 +37,11 @@ Me interesa seguir aprendiendo, fortalecer mis habilidades y participar en la co
 
 **Herramientas y desarrollo**
 
-![Herramientas](https://skillicons.dev/icons?i=git,github,idea,vscode,figma,postman,aws)
+![Herramientas](https://skillicons.dev/icons?i=git,github,idea,vscode,figma,bruno,aws)
 
 **Automatización e integraciones**
 
-Google Apps Script · Gemini API · Monday.com
+Google Apps Script · Gemini API · Monday.com · n8n
 
 ---
 
