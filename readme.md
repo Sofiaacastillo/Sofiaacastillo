@@ -36,11 +36,14 @@ Me interesa seguir aprendiendo, fortalecer mis habilidades y participar en la co
 ![Bases de datos](https://skillicons.dev/icons?i=mysql)
 
 
+
 **Herramientas y desarrollo**
 
-![Herramientas](https://skillicons.dev/icons?i=git,github,idea,vscode,figma,aws)
-
-![Bruno](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bruno/bruno-original.svg)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,figma" alt="Herramientas" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bruno/bruno-original.svg" alt="Bruno" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="48" />
+</p>
 
 
 **Automatización e integraciones**
